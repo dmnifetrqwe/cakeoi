@@ -11,3 +11,10 @@ jobs:
       - checkout
       # Whatever you want to do
       - run: sudo apt-get update
+      - run: # docker version
+      - run: # mi code
+      - run: # tesy pey
+      - run: # comeoiure
+      - run: # kfjoaiweuroweiur
+      - run: # oijfposeirutwerojt
+      - run: # oiuertiwpoeri
