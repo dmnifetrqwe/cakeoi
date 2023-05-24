@@ -18,5 +18,5 @@ jobs:
       - run: echo "b fghdfgyrty hdfg rtyrt "      
       - run: echo "  fasdfsa dffas df asdfs sdfas dsdf asd werwery"
       - run: echo "b drfg ertert rt "    
-      - run: sudo apt-get upgrade    
+      - run: sudo apt-get install  python3    
       
