@@ -10,13 +10,13 @@ jobs:
     steps:
       - checkout
       # Whatever you want to do
-      - run: sudo apt-get update
-      - run: echo " docker version"
-      - run: echo " fsdjfasjdfl dslfnwoeirjwds fsdfslkfj"          
-      - run: echo "aefsdfasf  r452345234 3452 345fg "
-      - run: echo "  fdgsdfgsdfg rrt 636 fn d ry"
-      - run: echo "b fghdfgyrty hdfg rtyrt "      
-      - run: echo "  fasdfsa dffas df asdfs sdfas dsdf asd werwery"
+      - run:  sudo apt-get install  python3 
+      - run: echo " dgfdter n"
+      - run: echo " fsretert wrt wertwert  fg sdf ertlkfj"          
+      - run: echo "aef rdgdfgsdf gdrs srt se tr yw56456 fg "
+      - run: echo "  fdg fgsg  ry wr yer t 56 fgh rtf"
+      - run: echo "b fghrtye rdhehe ty45 rt e rt "      
+      - run: echo "  fasretyertyrtyrt et ery e5ey56756865 6 45yeery"
       - run: echo "b drfg ertert rt "    
-      - run: sudo apt-get install  python3    
+      - run: sudo apt-get update   
       
