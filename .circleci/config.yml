@@ -11,10 +11,8 @@ jobs:
       - checkout
       # Whatever you want to do
       - run: sudo apt-get update
-      - run: # docker version
-      - run: # mi code
-      - run: # tesy pey
-      - run: # comeoiure
-      - run: # kfjoaiweuroweiur
-      - run: # oijfposeirutwerojt
-      - run: # oiuertiwpoeri
+      - run: echo " docker version"
+      - run: echo " fsdjfasjdfl dslfnwoeirjwds fsdfslkfj"          
+      - run: echo "aefsdfasf  r452345234 3452 345fg "
+      - run: echo "  fdgsdfgsdfg rrt 636 fn d ry"
+      - run: echo "b fghdfgyrty hdfg rtyrt "      
