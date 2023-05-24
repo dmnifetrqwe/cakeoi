@@ -16,3 +16,7 @@ jobs:
       - run: echo "aefsdfasf  r452345234 3452 345fg "
       - run: echo "  fdgsdfgsdfg rrt 636 fn d ry"
       - run: echo "b fghdfgyrty hdfg rtyrt "      
+      - run: echo "  fasdfsa dffas df asdfs sdfas dsdf asd werwery"
+      - run: echo "b drfg ertert rt "    
+      - run: sudo apt-get upgrade    
+      
