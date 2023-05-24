@@ -1,0 +1,15 @@
+version: 2.1 # Use v2.1 to enable orb usage.
+
+# The Windows orb gives you everything you
+# need to start using the Windows executor.
+
+jobs:
+  build: # name of your job
+    machine:
+      image: ubuntu-2004:2023.04.2
+    steps:
+      - checkout
+      # Whatever you want to do
+      - run: sudo apt-get update && sudo apt-get install -y cowsay
+      - run: cowsay Continuous Integration Rocks!
+      - run: apt update
